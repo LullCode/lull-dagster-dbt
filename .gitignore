@@ -1,5 +1,5 @@
 build/*
 dist/*
-*.egg_info
+*.egg_info/*
 __pycache__/*
 *.pyc
