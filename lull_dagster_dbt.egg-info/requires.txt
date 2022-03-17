@@ -1,0 +1,8 @@
+dagster==0.13.12
+packaging
+requests
+pytest-cov
+
+[test]
+moto>=2.2.8
+requests-mock
