@@ -3,3 +3,5 @@ dist/*
 *.egg_info/*
 __pycache__/*
 *.pyc
+.vscode/*
+.pytest_cache/*
