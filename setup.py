@@ -28,7 +28,7 @@ if __name__ == "__main__":
         ],
         packages=find_packages(exclude=["tests"]),
         install_requires=[
-            "dagster==0.13.12",
+            "dagster==1.10.16",
             "packaging",
             "requests",
             "pytest-cov"
